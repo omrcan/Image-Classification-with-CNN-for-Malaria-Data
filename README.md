@@ -1,0 +1,2 @@
+# Image Classification with CNN for Malaria Data
+ In this project, a deep learning model has been developed for the diagnosis of malaria. Using cell images obtained under a microscope, the model, built on the Convolutional Neural Network (CNN) architecture, classifies whether the cells are parasitized or uninfected. This study aims to demonstrate the effectiveness of deep learning methods in the diagnosis of malaria.
